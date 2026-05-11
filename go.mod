@@ -27,7 +27,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/tchap/go-patricia/v2 v2.3.3
 	github.com/ulikunitz/xz v0.5.15
-	github.com/vbatts/tar-split v0.12.1
+	github.com/vbatts/tar-split v0.12.3
 	golang.org/x/sync v0.16.0
 	golang.org/x/sys v0.35.0
 	gotest.tools/v3 v3.5.2
